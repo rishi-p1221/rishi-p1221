@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Rishi! 👋
 
-<!--
-**rishi-p1221/rishi-p1221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate engineer focused on building intelligent automation, exploring Agentic AI systems, and diving deep into cybersecurity frameworks. I love turning complex logic into structured, functional visual workflows.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Focus & Learning Journey
+
+- 🔭 **Current Project:** Building and open-sourcing modular Agentic AI architectures & RAG pipelines using n8n.
+- 🌱 **Upskilling In:** Advanced Cybersecurity protocols, network defense, and system security fundamentals.
+- ⚙️ **Core Interests:** Workflow automation, generative AI orchestration, and secure application development.
+
+### 🌐 Let's Connect
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/rishiraj-purane/
+- ✉️ **Email:** rishirajpurane@gmail.com
+
+---
+
+### 📊 Tech Stack & Tools
+🤖 **AI & Automation:** n8n | RAG Pipelines | Vector Databases (Pinecone, Qdrant)  
+🔒 **Security & DevOps:** Git | Cyber Security Foundations  
+
+*"Building workflows that automate the repetitive, so we can focus on the creative."*
